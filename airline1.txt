@@ -1,0 +1,44 @@
+港龙航空公司	Dragon Air	KA	KDA
+大韩航空公司	Korean Air	KE	AKA
+韩亚航空公司	Asiana Airways	OZ	AAR
+日本航空公司	Japan Airlines	JL	JAL
+全日空公司	All Nippon Airways	NH	ANA
+新加坡航空公司	Singapore Airlines	SQ	SIA
+泰国国际航空公司	Thai Airways International	TG	THA
+美国西北航空公司	Northwest Airlines	NW	NWA
+加拿大国际航空公司	Canadian Airlines International	AC	 
+美国联合航空公司	United Airlines	UA	UAL
+英国航空公司	British Airways	BA	BAW
+荷兰皇家航空公司	Klm Royal Dutch Airlines	KL	 
+德国汉莎航空公司	Lufthansa German Airlines	LH	DLH
+法国航空公司	Air France	AF	AFR
+瑞士航空公司	Swissair	SR	SWR
+奥地利航空公司	Austrian Airlines	OS	AUA
+俄罗斯国际航空公司	Aeroflot Russian International	SU	AFL
+澳洲航空公司	Qantas Airways	QF	QFA
+芬兰航空公司	Finnair Airlines	AY	FIN
+意大利航空公司	Italia Airlines	AZ	AZA
+斯堪的纳维亚（北欧）航空公司	Scandinavian Airlines	SK	SAS
+文莱皇家航空公司	Royal Brunei Airlines	BI	RBA
+印度尼西亚鹰航空公司	Garuda Indonesia Airlines	GA	GIA
+新加坡胜安航空公司	Singapore Silk Air	MI	MMP
+马来西亚航空公司	Malaysian Airlines	MH	MAS
+埃塞俄比亚航空公司	Ethiopian Airlines	ET	RTH
+美国长青国际航空公司	Evergeen Int Airlines	EZ	EIA
+波兰航空公司	Lot-Polish Airlines	LO	LOT
+罗马尼亚航空公司	Torom Romanian Air Transport	RO	ROT
+乌兹别克斯坦航空公司	Uzbekstan Airlines	HY	UZB
+伏尔加第聂伯航空公司	Volga-Dnepr Airlines	VI	VDA
+乌克兰航空公司	Air Ukraine	UKR
+哈萨克斯坦航空公司	Kazakhstan Airlines	K4	KXA
+蒙古航空公司	Miat Mongolian Airlines	OM	MGL
+巴基斯坦国际航空公司	Pakistan International Airlines	PK	PIA
+菲律宾航空公司	Philippine Airlines	PR	PAL
+尼泊尔王家航空公司	Royal Nepal Airlines	RA	RNA
+伊朗航空公司	Iran Air-The Airlines Of Isamic	IR	IRA
+日本航空系统株氏会航空公司	Japan Air System	JD	JAS
+朝鲜航空公司	Air Koryo	JS	KOR
+以色列航空公司	Ei Ai Israel Airlines	LY	ELY
+澳门航空公司	Air Macau	NX	AMU
+缅甸国际航空公司	Myanmar Airways	UB	UBA
+越南航空公司	Vientnam Airlines	VN	HVN
