@@ -1,3 +1,25 @@
+# 使用指南
+
+## migration
+
+    $ rgm Airline name:string iata:string icao:string en_name:string
+
+
+## add data to db
+
+~~~ruby
+# add data to Airline
+AirlineData::ARS.each do |d|
+  Airline.create(d) unless Airline.find_by_iata(d[:iata])
+end
+
+AirlineData::ARSS.each do |d|
+  Airline.create(d) unless Airline.find_by_iata(d[:iata])
+end
+~~~
+
+
+
 # AirlineData
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/airline_data`. To experiment with that code, run `bin/console` for an interactive prompt.
